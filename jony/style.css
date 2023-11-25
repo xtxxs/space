@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
     position: relative;
     font-size: 1em;
     font-family: var(--font-1);
-    color: #970505:
+    color: #D11818;
     overflow: hidden
 }
 
@@ -68,7 +68,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: var(--font-3);
     font-weight: lighter;
     font-size: 5em;
-    color: #fff;
+    color: #D11818;
     margin-bottom: 20px
 }
 
