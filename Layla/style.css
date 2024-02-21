@@ -201,11 +201,11 @@ body.is-instant:after {
 }
 
 #icons01 a svg {
-	fill: #FFFFFF;
+	fill: #68228B;
 }
 
 #icons01 a:hover svg {
-	fill: #D5E6F5 !important;
+	fill: #9f78c9 !important;
 }
 
 #icons01 li a + svg {
@@ -240,7 +240,7 @@ body.is-instant:after {
 }
 
 #icons02 a svg {
-	fill: #FFFFFF;
+	fill: #9f78c9;
 }
 
 #icons02 a {
@@ -280,14 +280,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text05 {
 	text-align: left;
-	color: #FFFFFF;
+	color: #9f78c9;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0.075rem;
 	width: calc(100% + 0.075rem);
 	font-size: 1.1em;
 	line-height: 1.125;
 	font-weight: 600;
-	text-shadow: 0.088rem 0.088rem 0.125rem #C9C9C9;
+	text-shadow: 0.088rem 0.088rem 0.125rem #9f78c9;
 }
 
 #text05 a {
@@ -304,7 +304,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #text01 {
 	text-align: center;
-	color: #FFFFFF;
+	color: #9f78c9;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0.075rem;
 	width: calc(100% + 0.075rem);
@@ -336,7 +336,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 #text06 {
 	text-align: left;
 	text-transform: lowercase;
-	color: #FFFFFF;
+	color: #9f78c9;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0.075rem;
 	width: calc(100% + 0.075rem);
@@ -354,7 +354,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text06 mark {
-	color: #32769A;
+	color: #5d1288;
 	background-color: rgba(227,227,227,0.722);
 }
 
@@ -901,7 +901,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #buttons01 li a svg {
 	display: block;
-	fill: #FFFFFF;
+	fill: #9f78c9;
 	height: 100%;
 	min-width: 16px;
 	width: 1em;
@@ -922,7 +922,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
 #buttons01 .button {
 	background-color: rgba(255,255,255,0.251);
-	color: #FFFFFF;
+	color: #9f78c9;
 }
 
 #buttons01 .button:hover {
@@ -945,14 +945,14 @@ hr:before {
 
 #divider02:before {
 	width: 100%;
-	border-top: dashed 1px #FFFFFF;
+	border-top: dashed 1px #9f78c9;
 	height: 1px;
 	margin-top: -0.5px;
 }
 
 #divider01:before {
 	width: 100%;
-	border-top: dashed 1px #FFFFFF;
+	border-top: dashed 1px #9f78c9;
 	height: 1px;
 	margin-top: -0.5px;
 }
@@ -995,7 +995,7 @@ hr:before {
 }
 
 #list01 {
-	color: #FFFFFF;
+	color: #9f78c9;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 0.075rem;
 	font-size: 0.625em;
