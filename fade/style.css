@@ -1,5 +1,6 @@
 .wrapper {
-  background: url(http://u.cubeupload.com/lexxlovesmexx/397585.jpg)no-repeat;
+  background: rgb(0, 0, 0);
+  color: rgb(0 0 0);
   height: 100vh;
   /*This part is important for centering*/
   display: grid;
@@ -17,7 +18,7 @@
   overflow: hidden;
   border-right: 73px solid;
   font-family: myFont;
-  font-size: 1350%;
+  font-size: 1250%;
   text-align: center;
 }
 
