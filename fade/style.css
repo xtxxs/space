@@ -1,0 +1,33 @@
+.wrapper {
+  background: url(http://u.cubeupload.com/lexxlovesmexx/397585.jpg)no-repeat;
+  height: 100vh;
+  /*This part is important for centering*/
+  display: grid;
+  place-items: center;
+}
+@font-face {
+  font-family: myFont;
+  src: url(fuentes/zaychik.ttf);
+}
+.typing-demo {
+    -webkit-text-fill-color: #FFFFFF;
+  width: 22ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 73px solid;
+  font-family: myFont;
+  font-size: 12em;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
