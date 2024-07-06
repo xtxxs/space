@@ -8,7 +8,8 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: radial-gradient(circle at center, #222121, #222);
+  background: url(https://static.vecteezy.com/system/resources/previews/014/000/314/non_2x/butterfly-cartoon-character-seamless-pattern-on-black-background-vector.jpg)no-repeat;
+  background-size: cover;
   color: #e0dada;
   font-weight: 600;
   min-height: 100vh;
