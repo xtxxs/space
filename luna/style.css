@@ -1,0 +1,275 @@
+body {
+    background: url(http://u.cubeupload.com/lexxlovesmexx/397585.jpg)no-repeat;
+    background-size: cover;
+}
+
+.ubis {
+    display: inline-block;
+    margin-left: -3px;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 50px;
+}
+
+.utris {
+    padding: 12px;
+    height: 310px;
+    overflow: auto;
+}
+
+.utris::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #D6B2FF;
+    background-color: #070707;
+}
+
+.utris::-webkit-scrollbar {
+    width: 10px;
+    background-color: #141313;
+}
+
+.utris::-webkit-scrollbar-thumb {
+    background-color: #D6B2FF ;
+    border: 2px solid #D6B2FF ;
+}
+
+.u7 {
+    font: 400 14px verdana;
+    font-style: italic;
+    color: #030303;
+    text-shadow: 1px 1px #0f0f0f;
+}
+
+.u7 b {
+    font: 800 14px verdana;
+    color: #D6B2FF ;
+    text-shadow: 1px 1px #0f0f0f;
+}
+
+.u7::first-letter {
+    font: 300 50px roboto slab;
+    line-height: 100%;
+    float: left;
+    padding: 6px;
+    margin: 6px;
+    color: #D6B2FF ;
+    text-shadow: 2px 2px #070707;
+}
+
+.u7 {
+    border-radius: 10px;
+    font: 10.4px verdana;
+    line-height: 100%;
+    text-align: justify;
+    color: #E1E1E1 ;
+    padding: 12px;
+    float: right;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 205px;
+    height: 335px;
+    border: 1px solid #E1E1E1;
+    background: #0a0a0a;
+    overflow: hidden;
+}
+
+.u6 {
+    width: 105px;
+    padding: 3px;
+    height: 105px;
+    position: absolute;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    top: 34.3px;
+    left: 19px;
+    animation: infinite 8s rotate;
+    display: block;
+    border: dashed 3px;
+    z-index: 3333;
+    border-color: #E1E1E1 transparent #E1E1E1 transparent;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#u1 h1 {
+    font: 20px roboto slab;
+    line-height: 100%;
+    position: relative;
+    color: #D6B2FF;
+    text-transform: uppercase;
+    padding: 12px;
+    margin-top: 15px;
+    border-top: 7px solid #D6B2FF;
+    width: 160px;
+    left: -15px;
+    text-align: justify;
+}
+
+#u1 .u5:hover span {
+    color: #D6B2FF;
+}
+
+#u1 .u5:hover {
+    right: -110px;
+    background: #D6B2FF ;
+}
+
+.u5 span {
+    color: #0a0909 ;
+    transition: 0.5s linear;
+    transition-delay: 0.4s;
+    font-size: 14px;
+    float: left;
+}
+
+.u5 {
+    z-index: 333;
+    transition: 0.5s linear;
+    position: relative;
+    top: 10px;
+    background: #0c0c0c ;
+    width: 155px;
+    right: 40px;
+    text-align: right;
+    color: #E1E1E1;
+    padding: 6px;
+    border-radius: 0px 20px 20px 0px;
+    font: 400 25px Lucida Sans Unicode, Lucida Grande, sans-serif;
+    line-height: 100%;
+    text-transform: lowercase;
+}
+
+.u10 {
+    z-index: 333;
+    transition: 0.5s linear;
+    position: relative;
+    top: 10px;
+    background: #080808 ;
+    width: 155px;
+    right: 40px;
+    text-align: right;
+    color: #E1E1E1;
+    padding: 6px;
+    border-radius: 0px 20px 20px 0px;
+    font: 400 25px Lucida Sans Unicode, Lucida Grande, sans-serif;
+    line-height: 100%;
+    text-transform: lowercase;
+}
+
+.u10 span {
+    color: #0c0c0c ;
+    transition: 0.5s linear;
+    transition-delay: 0.4s;
+    font-size: 14px;
+    float: left;
+}
+
+#uEs:hover .u10 span {
+    color: #080808;
+}
+
+#uEs:hover .u10 {
+    right: -110px;
+    background: #D6B2FF ;
+}
+
+#uEs20:hover .u10 span {
+    color: #070707;
+}
+
+#uEs20:hover .u10 {
+    right: -110px;
+    background: #D6B2FF ;
+}
+
+.u4 {
+    font: 300 9px Lucida Sans Unicode, Lucida Grande, sans-serif;
+    line-height: 100%;
+    height: 105px;
+    text-transform: uppercase;
+    position: relative;
+    width: 100px;
+    text-align: justify;
+    top: 5px;
+    left: -3px;
+    color: #D6B2FF;
+    padding: 5px;
+}
+
+.u3 {
+    top: 15px;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    position: relative;
+    border-radius: 100%;
+    border: 13px solid ;
+    background-image: url('https://xatimg.com/image/ghyBjiMvT6Sr.jpg');
+    background-size: cover
+}
+
+.u2 {
+    background: #020202;
+    width: 240px;
+    height: 440px;
+    position: absolute;
+    top: 0px;
+    left: -100px;
+    transform: rotate(-15deg);
+}
+
+#u1 {
+    position: relative;
+    padding: 15px;
+    background: #D6B2FF;
+    border: 5px solid #D6B2FF;
+    box-shadow: -1px 1px #0e0d0d, 1px -1px #0a0a0a;
+    margin: 0px auto;
+    width: 400px;
+    height: 370px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+:root {
+    --MusicBox-Left-Or-Right:above;
+    --MusicBox-Edge-Distance:30px;
+    
+    --MusicBox-Width:269px;
+    
+    --MusicBox-Title-Padding:10px;
+    --MusicBox-Title-Background:#D6B2FF;
+    --MusicBox-Title-Size:10px;
+    --MusicBox-Title-Color:#000000;
+    --MusicBox-Title-Corner-Roundness:8px;
+    
+    --MusicBox-Main-Background:#000;
+    --MusicBox-Main-Padding:14px;
+    --MusicBox-Side-Borders:#E1E1E1;
+    
+    --Album-Art-Size:32px;
+    --Album-Art-Corner-Roundness:3px;
+    --Album-Art-Gap:10px;
+    
+    --Song-Name-Size:9px;
+    --Song-Name-Color:#E1E1E1;
+    
+    --Artist-Name-Size:10px;
+    --Artist-Name-Color:#E1E1E1;
+    
+    --Music-Buttons-Size:11px;
+    --Music-Buttons-Color:#D6B2FF;
+    
+    --Track-Spacing:9px;
+    
+    --Autoplay-First-Song:no;
+    --Autoplay-Next-Song:yes;
+    --Loop-Playlist-Infinitely:no;
+}
