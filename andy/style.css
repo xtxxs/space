@@ -1,0 +1,75 @@
+body 
+{
+  background: rgb(19, 19, 19);
+  color: rgb(0 0 0);
+  font-family: "Roboto";
+  
+.sp {
+  width: 680px;
+  height: 680px;
+  background: #070707;
+  color: #f5f4f4;
+  line-height: 1.5;
+  font: 11px Roboto;
+  outline: #936ead 1px solid;
+  margin: 30px auto;
+}
+.sp-sm {
+  border-bottom: 1px solid #171717;
+  background: #030303;
+  font: bold 10px Rajdhani;
+  border: transparent 30px solid;
+  text-align: justify;
+  overflow: hidden;
+  height: 25px;
+  text-transform: uppercase;
+  color: #f7f7f7;
+}
+.sp-datos span {
+  position: relative;
+  top: -30px;
+  padding: 5px;
+  text-align: left;
+  text-transform: uppercase;
+  margin: -1px 25px;
+  font: 10px Roboto;
+  background: #0e0e0e;
+  line-height: 1.5;
+  color: #fff;
+  border: #171717 1px solid;
+  display: block;
+}
+.sp-datos .sp-frs {
+  padding: 0px 20px;
+  display: block;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 10px;
+  text-align: right;
+}
+.sp-dd {
+  float: right;
+  position: relative;
+  top: -34px;
+  padding: 5px;
+  text-align: left;
+  text-transform: uppercase;
+  margin: -1px 5px 0px 0px;
+  font: 10px / 1.5 Roboto;
+  background: rgb(14, 14, 14);
+  color: rgb(255 254 254);
+  border: 1px solid hsl(282, 19%, 47%);
+  display: block;
+}
+.sp-ar .sp-name {
+  color: rgb(0, 0, 0);
+  font: 900 80px Poppins;
+  letter-spacing: -5px;
+  position: relative;
+  top: 62px;
+  -webkit-text-stroke: 2px rgb(129, 97, 143);
+}
+a.sp-cred {
+  color: #fffefe;
+  text-decoration: none;
+}
